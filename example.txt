@@ -1,0 +1,6 @@
+argv[0] is: ./example
+argv[1] is: print
+argv[2] is: this
+argv[3] is: to
+argv[4] is: the
+argv[5] is: file
